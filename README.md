@@ -1,6 +1,6 @@
 # MT_CrossingAnalysis
 
-> This repo propose a pre-trained model *DGF-Net* for microtubule segmentation.
+This repo propose a pre-trained model *DGF-Net* for microtubule segmentation.
 
 
 ## Architecture of the DGF-Net
@@ -34,7 +34,7 @@ python inference.py -t 0.6 --save_dir './segmentation' --img_dir './images' --im
 You can use `-t` to change the threshold for different segmentation results,  use `--save_dir` to create the saving folder, use `--img_dir` to change your source image dir, use `--img_type` to change the type of images, default *uint16*. (Note that `--img_type` must match the soure image's type)
 
 
-##Contributing 
+## Contributing 
 Code for this projects developped at CBMI Group (Computational Biology and Machine Intelligence Group).
 
 CBMI at National Laboratory of Pattern Recognition, INSTITUTE OF AUTOMATION, CHINESE ACADEMY OF SCIENCES
