@@ -4,7 +4,7 @@ This repo propose a pre-trained model *DGF-Net* for microtubule segmentation.
 
 
 ## Architecture of the DGF-Net
-![](https://github.com/cbmi-group/MT_CrossingAnalysis/blob/master/dgfnet.png)
+![](https://github.com/YaoruLuo/MT_CrossingAnalysis/blob/main/dgfnet.png)
 
 
 
