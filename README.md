@@ -37,6 +37,6 @@ You can use `-t` to change the threshold for different segmentation results,  us
 ## Contributing 
 Code for this projects developped at CBMI Group (Computational Biology and Machine Intelligence Group).
 
-CBMI at National Laboratory of Pattern Recognition, INSTITUTE OF AUTOMATION, CHINESE ACADEMY OF SCIENCES
+CBMI at National Laboratory of Pattern Recognition, Institute of Automation, Chinese Academy of Science. 
 
 
