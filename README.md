@@ -4,13 +4,13 @@ This repo propose a pre-trained model *DGF-Net* for microtubule segmentation.
 
 
 ## Architecture of the DGF-Net
-![](https://github.com/YaoruLuo/MT_CrossingAnalysis/blob/main/dgfnet.png)
+![DGF-Net](https://github.com/YaoruLuo/MT_CrossingAnalysis/blob/main/dgfnet.png)
 
 
 
 ## How to use
 
-###Dependencies
+### Dependencies
 the main dependencies are as follows:
 
 * Pytorch
